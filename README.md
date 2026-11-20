@@ -39,3 +39,9 @@ the TODO works. If it reverts, the message says what to fix.
 
 Redeploy the check after every change to `Attendance.sol`. A check can't see events
 (no contract can), so look for your events in the transaction log yourself.
+
+---
+
+Part of [ack3 education](https://github.com/ack3-education): hands-on material for
+[NIE-BLO](https://courses.fit.cvut.cz/NIE-BLO/) at FIT ČVUT, published by [ack3](https://ack3.ai).
+Contracts compile and deploy with [Wake](https://github.com/ack3-ai/wake) for VS Code.
